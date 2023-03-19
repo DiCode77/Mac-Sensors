@@ -30,3 +30,16 @@ The fifth (Settings), program settings, while you can set the sensor update inte
 4. SMCIO
 
 ![gptc](./img/4.png)
+
+
+
+There is also support for displaying information in the tray status for quick access to sensor indicators.
+
+![gptc](./img/5.png)
+
+
+The program works in the background and uses a small amount of system resources, usually it is 1%, you can further reduce this indicator by setting a longer update interval in the settings, for example, two or three seconds.
+
+
+
+
