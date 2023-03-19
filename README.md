@@ -47,3 +47,10 @@ To open all the functionality of the program, you need to be!
 - VirtualSMC.kext 
 - SMCProcessor.kext required to display processor sensors
 - SMCSuperIO.kext   required to display voltage sensors
+
+You don't need to do anything to display the graphics card!
+
+It is very important to check that you have the correct settings in the Config.plist
+Misc->Security->ExposeSensitiveData == [ 14 ] 
+You can see the layout here [Config](https://github.com/DiCode77/Mac-Sensors/blob/main/img/6.jpg)
+
