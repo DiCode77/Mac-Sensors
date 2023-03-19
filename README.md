@@ -54,3 +54,6 @@ It is very important to check that you have the correct settings in the Config.p
 Misc->Security->ExposeSensitiveData == [ 14 ] 
 You can see the layout here [Config](https://github.com/DiCode77/Mac-Sensors/blob/main/img/6.jpg)
 
+Support is from macOS Monterey to macOS Ventura.
+
+The program is still at the stage of testing and development.
