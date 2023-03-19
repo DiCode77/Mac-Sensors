@@ -40,6 +40,10 @@ There is also support for displaying information in the tray status for quick ac
 
 The program works in the background and uses a small amount of system resources, usually it is 1%, you can further reduce this indicator by setting a longer update interval in the settings, for example, two or three seconds.
 
+Now about support, for now, support is available, on all processors from Intel, video cards are supported from RX 550 to RX 6900XT.
 
+To open all the functionality of the program, you need to be!
 
-
+- VirtualSMC.kext 
+- SMCProcessor.kext required to display processor sensors
+- SMCSuperIO.kext   required to display voltage sensors
