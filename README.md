@@ -62,9 +62,13 @@ Video cards are supported:
 AMD GPU
 
 RX450 - RX480
+
 RX550 - RX590
+
 RX Vega (All Model)
+
 RX5500 - 5700XT
+
 RX6600 - 6900XT
 
 Intel IGPU 
