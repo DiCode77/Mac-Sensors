@@ -57,3 +57,16 @@ You can see the layout here [Config](https://github.com/DiCode77/Mac-Sensors/blo
 Support is from macOS Monterey to macOS Ventura.
 
 The program is still at the stage of testing and development.
+
+Video cards are supported:
+AMD GPU
+
+RX450 - RX480
+RX550 - RX590
+RX Vega (All Model)
+RX5500 - 5700XT
+RX6600 - 6900XT
+
+Intel IGPU 
+
+So far only HD 620 7th.
